@@ -16,6 +16,6 @@ jobs:
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
         IMG_WIDTH: '100'
         FONT_SIZE: '14'
-        PATH: '/CONTRIBUTORS.md'
+        PATH: '/README.md'
         COMMIT_MESSAGE: 'Github Bot : Updating Contributors'
         AVATAR_SHAPE: 'square'
