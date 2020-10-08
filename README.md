@@ -1,4 +1,4 @@
-# data-structures
+# Data-Structures
 
 Solutions to famous DS problems.
 
