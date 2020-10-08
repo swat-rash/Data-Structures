@@ -26,3 +26,4 @@ You can also create an issue or [contact us](https://github.com/swat-rash) if yo
 
 #### Sorting
 
+- [Check if a list is sorted](https://github.com/swat-rash/data-structures/blob/main/src/main/java/problems/Sorting/CheckIfListIsSorted.java)
