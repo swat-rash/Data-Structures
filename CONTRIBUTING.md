@@ -1,19 +1,19 @@
 # Contribution Guidelines
 
-Welcome to [algorithmsUse](https://github.com/aniketsharma00411/algorithmsUse)! Before sending your pull requests, make sure you read the complete guideleines. If you still have any doubts, feel free to create an issue or [contact us](https://github.com/aniketsharma00411).
+Welcome to [Data-Structures](https://github.com/swat-rash/Data-Structures)! Before sending your pull requests, make sure you read the complete guideleines. If you still have any doubts, feel free to create an issue or [contact us](https://github.com/swat-rash).
 
 ## Contributing
 
-**Add any Algorithm** which is not already present in its respective Programming Language directory. If you don't find your favorite programming language's directory, feel free to create it.
+**Add any DS** which is not already present in its respective directory. If you don't find your favorite directory, feel free to create it.
 
-**Update** the **main README** and the **respective language's README** with your program's name. These README are used for reference to check which algorithms are present.
+**Update** the **main README** with your program's name. This README is used for reference to check which data structures are present.
 
-**Improving README and/or comments** are also appreciated.
+**Improving README and/or comments** is very much appreciated.
 
 **Proper Tests** for already present algorithms are also highly welcome.
 
 ## Coding Style
 
-- Make sure you follow the **standard coding style** of the language you are using.
+- Make sure you follow the **standard coding style** used in Java.
 
-- Stricly use snake_case (underscore_separated) in your file_name.
+- Stricly use camelCase in your fileName.
