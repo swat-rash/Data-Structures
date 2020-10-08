@@ -16,6 +16,8 @@ Read the [Contribution Guidlines](https://github.com/swat-rash/data-structures/b
 
 You can also create an issue or [contact us](https://github.com/swat-rash) if you have any doubts.
 
+### Contributors
+
 ## Current Data Structures
 
 ### Table of Contents
