@@ -8,13 +8,13 @@ This repo is Hacktoberfest friendly. But make sure that the you don't spam with 
 
 For info about how to contribute to Open Source and Participate in Hacktoberfest, check out the below post:
 
-https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
+https://hacktoberfest.digitalocean.com/
 
 ## Contributions
 
-Read the [Contribution Guidlines](https://github.com/aniketsharma00411/algorithmsUse/blob/master/CONTRIBUTING.md) before you contribute.
+Read the [Contribution Guidlines](https://github.com/swat-rash/data-structures/blob/main/CONTRIBUTING.md) before you contribute.
 
-You can also create an issue or [contact us](https://github.com/aniketsharma00411) if you have any doubts.
+You can also create an issue or [contact us](https://github.com/swat-rash) if you have any doubts.
 
 ## Current Data Structures
 
