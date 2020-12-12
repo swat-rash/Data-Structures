@@ -20,16 +20,16 @@ You can also create an issue or [contact us](https://github.com/swat-rash) if yo
 
 <table>
 <tr>
-    <td align="center">
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/swat-rash>
-            <img src=https://avatars2.githubusercontent.com/u/72001516?v=4 width="100;" alt=swat-rash/>
+            <img src=https://avatars2.githubusercontent.com/u/72001516?v=4 width="100;"  alt=swat-rash/>
             <br />
             <sub style="font-size:14px"><b>swat-rash</b></sub>
         </a>
     </td>
-    <td align="center">
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/swati-rashmi>
-            <img src=https://avatars2.githubusercontent.com/u/5621177?v=4 width="100;" alt=swati-rashmi/>
+            <img src=https://avatars2.githubusercontent.com/u/5621177?v=4 width="100;"  alt=swati-rashmi/>
             <br />
             <sub style="font-size:14px"><b>swati-rashmi</b></sub>
         </a>
